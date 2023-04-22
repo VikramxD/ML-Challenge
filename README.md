@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/Accuracy-0.95-success" alt="Accuracy">
 </p>
 <h2 align="center">Problem Statement</h2>
-<p align="center">The problem statement for this round of the Amazon ML Challenge 2023 was to predict the price of a product based on several features, including product category, product dimensions, and seller information.</p>
+<p align="center">The problem statement for this round of the Amazon ML Challenge 2023 was to predict the length of a product based on several features, including product category, product dimensions, and seller information.</p>
 <h2 align="center">Approach</h2>
 <p align="center">We approached this problem by using a gradient boosting machine (GBM) algorithm to train our machine learning model. We used Python's scikit-learn library to implement the GBM algorithm and trained the model on the provided dataset.</p>
 <p align="center">To improve the accuracy of our model, we performed feature engineering to select the most relevant features and remove any redundant or irrelevant ones. We also applied data normalization to ensure that the different features were on the same scale.</p>
